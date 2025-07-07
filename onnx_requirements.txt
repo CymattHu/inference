@@ -2,3 +2,6 @@ onnxsim
 torch
 onnxruntime
 onnx
+torchvision
+numpy
+scipy
