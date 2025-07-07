@@ -1,0 +1,4 @@
+onnxsim
+torch
+onnxruntime
+onnx
