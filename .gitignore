@@ -1,2 +1,2 @@
 inference/
-model.onnx
+*.onnx

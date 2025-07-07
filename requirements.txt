@@ -5,3 +5,4 @@ onnx
 torchvision
 numpy
 scipy
+onnxoptimizer
